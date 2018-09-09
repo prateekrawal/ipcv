@@ -290,7 +290,9 @@ body{
 
 .footer
 {
-	position: relative;
+	position: absolute;
+	width:100%;
+	bottom: 0%;
 	font-size: 12px;
 	color: white;
 	padding: 15px 10px;
