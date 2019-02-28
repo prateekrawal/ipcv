@@ -385,7 +385,7 @@ h1.team-h1 {
   img {
 	border:0;
 	width:100%;
-	height:100%;
+	height:auto;
   }
   #team {
 	max-width:96rem;
